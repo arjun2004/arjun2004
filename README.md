@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjun2004
 - 👀 I’m interested in Coding!
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate with google.
 
 <!---
