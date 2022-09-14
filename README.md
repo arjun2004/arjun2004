@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arjun2004
+### 👋 Hi, I’m Arjun P
 - 👀 I’m interested in Coding!
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA    
 - 💞️ I’m looking to collaborate with google.
 
 <!---
