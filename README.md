@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Arjun P
 ### My dream is to become a software engineer 💻 
-- I am currently learning java and react.js </> .
+- I am currently studying Computer Science with Artificial intelligence </> .
 - I love linux 🐧 and opensource. 
 <!---
 arjun2004/arjun2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
