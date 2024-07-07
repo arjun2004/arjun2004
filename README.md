@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Arjun P
-### My dream is to become a software engineer 💻 
 - I am currently studying Computer Science and engineering(Artificial intelligence) </> .
 - I love linux 🐧 and opensource. 
 <!---
